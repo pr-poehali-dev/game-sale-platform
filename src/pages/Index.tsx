@@ -17,7 +17,7 @@ const Index = () => {
         <div className="flex items-center space-x-2">
           <Icon name="Zap" className="text-orange-500" size={32} />
           <h1 className="text-2xl font-bold text-white font-oswald">
-            ВАМПАРИК
+            ВАМПИР ВЫЖИВАЕТ
           </h1>
         </div>
         <nav className="hidden md:flex space-x-8">
@@ -49,7 +49,7 @@ const Index = () => {
             🧛‍♂️ НОВАЯ ИГРА
           </Badge>
           <h1 className="text-7xl font-bold text-white mb-6 leading-tight font-oswald">
-            ВАМПАРИК
+            ВАМПИР ВЫЖИВАЕТ
           </h1>
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
             Стань повелителем ночи в захватывающем приключении о вампире,
@@ -212,7 +212,7 @@ const Index = () => {
               className="w-full bg-orange-500 hover:bg-orange-600 text-white py-4 text-xl font-semibold"
             >
               <Icon name="ShoppingCart" className="mr-2" size={24} />
-              Купить ВАМПАРИК
+              Купить ВАМПИР ВЫЖИВАЕТ
             </Button>
             <p className="text-sm text-gray-500 mt-4">
               Поддерживаются все основные способы оплаты
@@ -226,7 +226,9 @@ const Index = () => {
         <div className="container mx-auto px-6 text-center">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <Icon name="Zap" className="text-orange-500" size={24} />
-            <span className="text-white font-bold text-xl">ВАМПАРИК</span>
+            <span className="text-white font-bold text-xl">
+              ВАМПИР ВЫЖИВАЕТ
+            </span>
           </div>
           <p className="text-gray-400">© 2024 Все права защищены</p>
         </div>
